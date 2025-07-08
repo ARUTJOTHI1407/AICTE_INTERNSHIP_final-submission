@@ -1,0 +1,15 @@
+#GARBAGE CLASSIFICATION USING EFFICIENTNETV2B2
+
+##PROBLEM STATEMENT
+identify and classify garbage images into cardboard,calss, metal,paper,plastic and trash
+
+##TOOLS & TECHNOLOGIES 
+--python
+--tensorflow&keras
+--efficientnetv2b2
+--gradio
+--google colab/ve=s code/jupiter notebook
+
+##FILES
+--requiremnts.txt-required libraries
+--README-project description
