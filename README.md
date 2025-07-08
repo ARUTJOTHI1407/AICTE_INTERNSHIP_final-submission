@@ -14,4 +14,4 @@ identify and classify garbage images into cardboard,calss, metal,paper,plastic a
 --requiremnts.txt-required libraries
 --README-project description
 --week2-week2 report
---interface-interface_screenshot
+--interface_screenshot-deployed with a simple gradio interface for testing.users can upload garbage images and instantly get the predicted class along with a confidence.
